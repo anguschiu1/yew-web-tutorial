@@ -1,0 +1,3 @@
+[[proxy]]
+rewrite = "/tutorial/"
+backend = "https://yew.rs/tutorial"
